@@ -1,4 +1,4 @@
-# CreditRiskPrediction
+# Credit Risk Prediction
 
 This repository demonstrates the use of resampling and ensemble machine learning to evaluate credit risk in peer-to-peer (P2P) lending scenarios.
 
