@@ -17,3 +17,4 @@ Conclusions:
 6. Easy Ensemble has the best geometric mean score at 0.87
 
 7. The top three features are: Initial List Status, Outstanding Principal, and Revolving Balance.
+![Top 10 features](toptenfeatures.jpeg)
