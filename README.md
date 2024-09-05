@@ -16,5 +16,5 @@ Conclusions:
 
 6. Easy Ensemble has the best geometric mean score at 0.87
 
-7. The top three features are: Initial List Status, Outstanding Principal, and Revolving Balance.
+7. The top three features are: Initial List Status, Outstanding Principal, and Revolving Balance. Total Accounts and Total Received Principal are also important features, and a significant decrease in importance is observed beyond these most-important five features.
 ![Top 10 features](toptenfeatures.jpeg)
